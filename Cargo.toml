@@ -5,6 +5,7 @@ authors = ["chansuke <chansuke@georepublic.de>"]
 edition = "2018"
 
 [dependencies]
+bootloader = "0.6.0"
 
 [profile.dev]
 panic = "abort"
